@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - .collabignore
+    - Assets/New Terrain.asset
+    - Assets/New Terrain.asset.meta
+    - Assets/Robot.meta
+    - Assets/Robot/AI.meta
+    - Assets/Robot/AI/eyes_vector.ai
+    - Assets/Robot/AI/eyes_vector.ai.meta
+    - Assets/Robot/Animations.meta
+    - Assets/Robot/Animations/AnimatorController_Jamo.controller
+    - Assets/Robot/Animations/AnimatorController_Jamo.controller.meta
+    - Assets/Robot/Animations/Default.meta
+    - Assets/Robot/Animations/Default/a_Idle.anim
+    - Assets/Robot/Animations/Default/a_Idle.anim.meta
+    - Assets/Robot/Animations/Default/a_Idle_Battle.anim
+    - Assets/Robot/Animations/Default/a_Idle_Battle.anim.meta
+    - Assets/Robot/Animations/Default/a_Idle_Happy.anim
+    - Assets/Robot/Animations/Default/a_Idle_Happy.anim.meta
+    - Assets/Robot/Animations/Default/a_Idle_Relaxed.anim
+    - Assets/Robot/Animations/Default/a_Idle_Relaxed.anim.meta
+    - Assets/Robot/Animations/Default/a_Idle_Scared.anim
+    - Assets/Robot/Animations/Default/a_Idle_Scared.anim.meta
+    - Assets/Robot/Animations/Default/a_Running.anim
+    - Assets/Robot/Animations/Default/a_Running.anim.meta
+    - Assets/Robot/Animations/Default/a_Walking.anim
+    - Assets/Robot/Animations/Default/a_Walking.anim.meta
+    - Assets/Robot/Animations/Falling To Landing.anim
+    - Assets/Robot/Animations/Falling To Landing.anim.meta
+    - Assets/Robot/Animations/Fist Pump.anim
+    - Assets/Robot/Animations/Fist Pump.anim.meta
+    - Assets/Robot/Animations/Jump.anim
+    - Assets/Robot/Animations/Jump.anim.meta
+    - Assets/Robot/Animations/Standing.anim
+    - Assets/Robot/Animations/Standing.anim.meta
+    - Assets/Robot/Animations/Victory Idle.anim
+    - Assets/Robot/Animations/Victory Idle.anim.meta
+    - Assets/Robot/Materials.meta
+    - Assets/Robot/Materials/m_jammo_eyes.mat
+    - Assets/Robot/Materials/m_jammo_eyes.mat.meta
+    - Assets/Robot/Materials/m_jammo_metal.mat
+    - Assets/Robot/Materials/m_jammo_metal.mat.meta
+    - Assets/Robot/Models.meta
+    - Assets/Robot/Models/Jammo_LowPoly.fbx
+    - Assets/Robot/Models/Jammo_LowPoly.fbx.meta
+    - Assets/Robot/Prefabs.meta
+    - Assets/Robot/Prefabs/Robot_Player.prefab
+    - Assets/Robot/Prefabs/Robot_Player.prefab.meta
+    - Assets/Robot/Scripts.meta
+    - Assets/Robot/Scripts/CharacterSkinController.cs
+    - Assets/Robot/Scripts/CharacterSkinController.cs.meta
+    - Assets/Robot/Scripts/MovementInput.cs
+    - Assets/Robot/Scripts/MovementInput.cs.meta
+    - Assets/Robot/Textures.meta
+    - Assets/Robot/Textures/Alternates.meta
+    - Assets/Robot/Textures/Alternates/t_jammo_black.psd
+    - Assets/Robot/Textures/Alternates/t_jammo_black.psd.meta
+    - Assets/Robot/Textures/Alternates/t_jammo_blue.psd
+    - Assets/Robot/Textures/Alternates/t_jammo_blue.psd.meta
+    - Assets/Robot/Textures/Alternates/t_jammo_yellow.psd
+    - Assets/Robot/Textures/Alternates/t_jammo_yellow.psd.meta
+    - Assets/Robot/Textures/jammo_eyes.png
+    - Assets/Robot/Textures/jammo_eyes.png.meta
+    - Assets/Robot/Textures/mixbot1.json
+    - Assets/Robot/Textures/mixbot1.json.meta
+    - Assets/Robot/Textures/mixbot_low_mixamo_edit1_AO.png
+    - Assets/Robot/Textures/mixbot_low_mixamo_edit1_AO.png.meta
+    - Assets/Robot/Textures/mixbot_low_mixamo_edit1_AlbedoTransparency.png
+    - Assets/Robot/Textures/mixbot_low_mixamo_edit1_AlbedoTransparency.png.meta
+    - Assets/Robot/Textures/mixbot_low_mixamo_edit1_MetallicSmoothness.png
+    - Assets/Robot/Textures/mixbot_low_mixamo_edit1_MetallicSmoothness.png.meta
+    - Assets/Robot/Textures/mixbot_low_mixamo_edit1_Normal.png
+    - Assets/Robot/Textures/mixbot_low_mixamo_edit1_Normal.png.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/Planet959 Scene.unity
+    - Assets/Scenes/Planet959 Scene.unity.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Terrain.meta
+    - Assets/Terrain/Terrain.asset
+    - Assets/Terrain/Terrain.asset.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/AudioManager.asset
+    - ProjectSettings/ClusterInputManager.asset
+    - ProjectSettings/DynamicsManager.asset
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/EditorSettings.asset
+    - ProjectSettings/GraphicsSettings.asset
+    - ProjectSettings/InputManager.asset
+    - ProjectSettings/MemorySettings.asset
+    - ProjectSettings/NavMeshAreas.asset
+    - ProjectSettings/Physics2DSettings.asset
+    - ProjectSettings/PresetManager.asset
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/ProjectVersion.txt
+    - ProjectSettings/QualitySettings.asset
+    - ProjectSettings/TagManager.asset
+    - ProjectSettings/TimeManager.asset
+    - ProjectSettings/UnityConnectSettings.asset
+    - ProjectSettings/VFXManager.asset
+    - ProjectSettings/VersionControlSettings.asset
+    - 
+    m_Values: 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
